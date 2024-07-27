@@ -1,0 +1,7 @@
+E:\Taldo codigo\Lista 3\Lista 3\exe 1\bin\Debug\exe 1.exe.config
+E:\Taldo codigo\Lista 3\Lista 3\exe 1\bin\Debug\exe 1.exe
+E:\Taldo codigo\Lista 3\Lista 3\exe 1\bin\Debug\exe 1.pdb
+E:\Taldo codigo\Lista 3\Lista 3\exe 1\obj\Debug\exe 1.csproj.AssemblyReference.cache
+E:\Taldo codigo\Lista 3\Lista 3\exe 1\obj\Debug\exe 1.csproj.CoreCompileInputs.cache
+E:\Taldo codigo\Lista 3\Lista 3\exe 1\obj\Debug\exe 1.exe
+E:\Taldo codigo\Lista 3\Lista 3\exe 1\obj\Debug\exe 1.pdb

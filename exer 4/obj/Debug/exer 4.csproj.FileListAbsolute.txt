@@ -1,0 +1,7 @@
+E:\Taldo codigo\Lista 3\Lista 3\exer 4\obj\Debug\exer 4.csproj.AssemblyReference.cache
+E:\Taldo codigo\Lista 3\Lista 3\exer 4\obj\Debug\exer 4.csproj.CoreCompileInputs.cache
+E:\Taldo codigo\Lista 3\Lista 3\exer 4\bin\Debug\exer 4.exe.config
+E:\Taldo codigo\Lista 3\Lista 3\exer 4\bin\Debug\exer 4.exe
+E:\Taldo codigo\Lista 3\Lista 3\exer 4\bin\Debug\exer 4.pdb
+E:\Taldo codigo\Lista 3\Lista 3\exer 4\obj\Debug\exer 4.exe
+E:\Taldo codigo\Lista 3\Lista 3\exer 4\obj\Debug\exer 4.pdb
